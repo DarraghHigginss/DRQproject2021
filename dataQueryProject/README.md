@@ -29,4 +29,4 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 
         User Guide:
-This web application is all about Tv shows.Clicking "TV central" brings you to the home page.It allows you to add tv shows into the "what's hot section" by clicking into "add".You can edit and delete posts in the "what's hot section" . It also shows you a variety of tv shows divided into genres by clicking "Genres".These have release years and reviews under them. If you click onto them it brings you to their imdb page.
+This web application is all about Tv shows/series .Clicking "Guide central" brings you to the home page.It allows you to add tv shows into the "what's hot section" by clicking into "add".You can edit and delete posts in the "what's hot section" . It also shows you a variety of tv shows divided into genres by clicking "Genres".These have release years and reviews under them. If you click onto them it brings you to their imdb page.
